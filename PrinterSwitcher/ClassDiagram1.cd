@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PrinterSwitcher.AboutBox" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAACAUAAASAAAADAAAgEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrinterSwitcher.frmAddMapping" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEICDQAAQQAAUCAAACCCwCAAAAAAAARAAAIAQA=</HashCode>
+      <FileName>frmAddMapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrinterSwitcher.frmMain" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MACBBB8GQiRDgBQLBUKSQEiSgQABECAIBEjAJMZAAJo=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrinterSwitcher.frmNewMapping" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQKAYACAAABACIACAAQASCAAAABAAAAAAAIgAAAI=</HashCode>
+      <FileName>frmNewMapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrinterSwitcher.frmPrinters" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABEAIACAAMACAAAAAEABAAAAAAAAAAA=</HashCode>
+      <FileName>frmPrinters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrinterSwitcher.PSWindows" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>PSWindows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrinterSwitcher.selfinfo" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAgAAAAACAEAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>selfinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrinterSwitcher.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrinterSwitcher.PSProcessCollection">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PSProcessCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrinterSwitcher.PSProcess">
+    <Position X="2.25" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIAggIAAAAAAQAAAAAAAEAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>PSProcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
