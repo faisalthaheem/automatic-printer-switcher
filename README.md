@@ -7,7 +7,9 @@ After the main program window is closed it is minimized to tray and can be acces
 
 ![enter image description here](https://rawgit.com/faisalthaheem/automatic-printer-switcher/master/docs/minimized-to-tray.png)
 
-Here's a short video showing the program in action
+# Video Demo
+
+[![APS Demo Video](https://img.youtube.com/vi/oNHsphTyp6A/0.jpg)](https://www.youtube.com/watch?v=oNHsphTyp6A)
 
 # Current Release
 Download from github [APS2.1.1.0-Setup.exe](https://github.com/faisalthaheem/automatic-printer-switcher/releases/download/v2.1.1.0/APS2.1.1.0-Setup.exe)
